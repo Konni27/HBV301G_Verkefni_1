@@ -79,3 +79,5 @@ Farðu eftir eftirfarandi vinnulagi til að vinna SRS hlutann
 Að lokinni rýni sameinar höfundur PR-ið (**merge**) við `main`.
 
 Ljúktu við aðra þætti verkefnisins eins og SDS og Vinnuferlið með sambærilegum hætti, þ.e. að skipta með ykkur verkum með issues, branches og PR 
+
+Halló 2
