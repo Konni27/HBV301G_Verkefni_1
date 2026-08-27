@@ -1,5 +1,5 @@
 # 🧭 System Description Specification (SDS)
-
+hi
 ## Númer teymis og höfundar
 [Setjið inn númer teymis og fullt nafn höfunda verkefnis]
 
