@@ -23,3 +23,15 @@ Notið auðkennið til að vísa í kröfuna úr SRS.md, t.d. business_requireme
 > Tengsl við aðrar kröfur, markmið eða hugmyndir
 -->
 
+## BREQ-2 
+ 
+## Titill: Einföld flokkun fyrir fyrirtæki
+
+## 🧭 Lýsing
+> Kerfið skal gera fyrirtækjum kleift að skrá og flokka í fyrirfram skilgreinda flokka.
+
+## 🏢 Viðskiptalegt samhengi
+> Gerir fyrirtækjum kleift að hafa flotta og skipulagaða kerfisskrá.
+
+## 📌 Athugasemdir
+> Dregur úr tíma sem fer í leit að skjölum og bætir yfirsýn.
