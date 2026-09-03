@@ -29,3 +29,16 @@ Samansafn skyldrar virkni sem veitir notanda virði og er lýst með virknikröf
 - [ ] Lágur
 - [x] Miðlungs
 - [ ] Hár
+
+## F-3
+
+## ✨ Lýsing
+> Kerfið veitir notendum möguleika á að leita að starfsmönnum og sía upplýsingar eftir deild, starfstitli eða öðrum skilgreindum eiginleikum.
+
+## ✅ Virði
+> Flýtir fyrir aðgangi að upplýsingum um starfsfólk og auðveldar stjórnendum og mannauðsdeild að finna rétta einstaklinga eða hópa án þess að fara handvirkt í gegnum starfsmannalista.
+
+## ⚖️ Forgangur
+- [ ] Lágur
+- [ ] Miðlungs
+- [x] Hár
