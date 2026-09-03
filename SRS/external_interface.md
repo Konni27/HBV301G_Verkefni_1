@@ -26,3 +26,19 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 - [ ] Vélbúnaðarviðmót (Hardware interface)
 - [ ] Samskiptaviðmót (Communications interface)
 -->
+## UI-2
+
+## 🔌 Skil
+> Kerfið hefur samskipti við notanda og database.
+
+## 📥 Inntak / úttak
+> Notandi setur inn gögn í tilbúið snið innan ákeðiðinn flokks í skránni. 
+
+## 📚 Samskipti og staðlar
+> Notandi fyllir inn tilkeðið snið með upplýsingum sem hann bæta í kerfisskránna.
+
+ ## 📌 Tegund skila
+- [x] Notendaviðmót (User interface)
+- [ ] Hugbúnaðarviðmót (Software interface)
+- [ ] Vélbúnaðarviðmót (Hardware interface)
+- [ ] Samskiptaviðmót (Communications interface)
