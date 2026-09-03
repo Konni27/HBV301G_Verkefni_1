@@ -3,21 +3,29 @@
 
 Samansafn skyldrar virkni sem veitir notanda virði og er lýst með virknikröfum.
 
-<!--
-
-Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni 
 
 ## F-1
 
 ## ✨ Lýsing
-> Hvaða getu eða þjónustu veitir kerfið notandanum?
+> Kerfið gefur nottenda möguleikan á að skoða og breyta skrám, persónu upplýsingum og starfstitill.   
 
 ## ✅ Virði
-> Hvaða virði veitir þetta notandanum eða hvernig styður þetta við viðskiptamarkmið?
+> Dregur úr handavinnu hjá mannauðsdeild og tryggir að upplýsingar um starfsfólk séu réttar og aðgengilegar á einum stað.
 
 ## ⚖️ Forgangur
 - [ ] Lágur
 - [ ] Miðlungs
-- [ ] Hár
+- [x] Hár
 
--->
+## F-2
+
+## ✨ Lýsing
+> Kerfið veitir sjónræna og gagnvirka tré yfirsýn yfir starfsmönnum og deildum. Þar sem yfirmenn eru yfir starfsmönnum og topurinn er ceo, teo, etc. 
+
+## ✅ Virði
+> Veitir strax skýra yfirsýn yfir boðleiðir og skipulag fyrirtækisins. Þar að meðal einfaldar það stjórnendum að gera skipulagsbreytingar. 
+
+## ⚖️ Forgangur
+- [ ] Lágur
+- [x] Miðlungs
+- [ ] Hár
