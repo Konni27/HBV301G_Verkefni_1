@@ -29,4 +29,4 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Krafan varðar hugbúnaðin notendaviðmótið þarf að vera skýrt sett fram svo notendur geti aflað sér upplýsinga á sem minnsta tíma.
 
 ## 🔗 Tengdar kröfur
-> Vísaðu í tengdar kröfur, ef við á. ?
+> - Tengist constraint um að ekki þarf að setja upp hugbúnað á tölvu notanda.
