@@ -16,3 +16,13 @@ Notið auðkennið til að vísa í kröfuna úr SRS.md, t.d. business_requireme
 
 ## 🔗 Tengsl við kröfur eða ferla
 -->
+## BRG-1
+
+## 📜 Lýsing
+> Hierarchy regla
+
+## 🧠 Rökrétt samhengi
+> Þeir sem eru með æðri stöðu í fyrirtækinu hafa meiri aðgang ,til dæmis: lögfræðingar, hagfræðingar, sérfræðingar, etc. Þetta er góð regla svo óviðkomandi er ekki að fykkta í kerfinu.
+
+## 🔗 Tengsl við kröfur eða ferla
+> Tengist functional requirements og system requirments þar sem það þarf að seperatea stjórn á kerfinu svo það virki vel og kemur í veg fyrir að fólk sem á ekki að nota kerfið fær að breyta því.
