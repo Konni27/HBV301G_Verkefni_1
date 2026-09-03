@@ -19,3 +19,14 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Vísaðu í tengdar kröfur, ef við á.
 
 -->
+
+## SR-1
+
+## 🛠️ Lýsing
+> Það þarf að vera hægt að stofna flokka og vista gögn innan flokkana. Notendur þurfa að geta haft yfirlit yfir flokkunina.
+
+## 🧩 Kerfishlutar
+> Krafan varðar hugbúnaðin notendaviðmótið þarf að vera skýrt sett fram svo notendur geti aflað sér upplýsinga á sem minnsta tíma.
+
+## 🔗 Tengdar kröfur
+> Vísaðu í tengdar kröfur, ef við á. ?
