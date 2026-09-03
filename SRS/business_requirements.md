@@ -5,23 +5,21 @@
 
 Viðskiptakrafa lýsir viðskiptalegu markmiði fyrirtækis eða viðskiptavinar sem hugbúnaðarlausninni er ætlað að stuðla að.
 
-<!--
-Afritið sniðmátið hér fyrir neðan fyrir hverja viðskiptakröfu og gefið henni næsta lausa auðkenni: BREQ1, BREQ2, BREQ3, ... 
-Notið auðkennið til að vísa í kröfuna úr SRS.md, t.d. business_requirements.md/#br1
 
 ## BREQ-1 
  
-## Titill: [Titill viðskiptakröfu]
+## Titill: 
 
 ## 🧭 Lýsing
-> Hvert er markmið eða ávinningur sem verkefnið á að ná fyrir fyrirtækið?
+> Kerfið skal halda í skrá með allar upplýsingar og stöðu hverns starfsmanns. Upplýsingar eins og nafn, netfang, starfstitill, tengiliðar etc. 
 
 ## 🏢 Viðskiptalegt samhengi
-> Hvernig styður þessi krafa við stefnu, markmið eða rekstur?
+> Kerfið á að einfalda samskipti milli starfsmanna í fyrirtækinu meðal annars verkefna útfæringum og skipulagi. 
 
 ## 📌 Athugasemdir
-> Tengsl við aðrar kröfur, markmið eða hugmyndir
--->
+> Fjallar eingöngu um gögn einstaka starfsmannsins.
+> Er forsenda BREQ-2. 
+
 
 ## BREQ-2 
  
