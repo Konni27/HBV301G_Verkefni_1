@@ -38,3 +38,36 @@ Markmið eða verkefni sem tiltekinn notendahópur þarf að geta framkvæmt me�
 > Þegar starfsmaður opnar forritið á kerfið sjálfkrafa að birta skipulagstréð út frá viðkomandi notanda og hans nánustu samstarfsmönnum/stjórnendum.
 ## 💬 Uppruni
 > Eykur notendavænleika (UX) til muna þar sem notandinn þarf ekki að leita að sjálfum sér til að sjá sína stöðu í skipulagi fyrirtækisins.
+
+## UR-4
+
+## 👤 Notandi
+> HR starfsfólk
+
+## 🎯 Krafa
+> HR starfsfólk þarf að geta uppfært persónuupplýsingar, starfstitla og deildartengingar starfsmanna.
+
+## 💬 Uppruni
+> Kemur frá eigin þekkingu mannauðsdeilda þarf að láta gera breytingar á starfsfólki reglulega og mikilvægt er að upplýsingarnar séu alltaf réttar.
+
+## UR-5
+
+## 👤 Notandi
+> Stjórnendur
+
+## 🎯 Krafa
+> Stjórnendur þurfa að geta skoðað skipulagstré fyrirtækisins og séð alla undirmenn sína ásamt stöðu þeirra.
+
+## 💬 Uppruni
+> Byggir á þörf stjórnenda fyrir skýra yfirsýn yfir ábyrgðarsvið sitt innan fyrirtækisins.
+
+## UR-6
+
+## 👤 Notandi
+> Almennir starfsmenn
+
+## 🎯 Krafa
+> Starfsmenn þurfa að geta leitað að samstarfsfólki eftir nafni, deild eða starfstitli til að finna tengiliðaupplýsingar á fljótlegan hátt.
+
+## 💬 Uppruni
+> Byggir á eigin þekkingu úr vinnu þar sem þurf reglulega að finna samstarfsfólk úr öðrum deildum án þess að þekkja skipulag fyrirtækisins til fulls.
