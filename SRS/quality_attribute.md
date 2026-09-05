@@ -15,3 +15,11 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Hvernig er hægt að mæla eða staðfesta að krafan sé uppfyllt?
 
 -->
+
+## QA-2
+
+## 🧰 Lýsing
+> Kerfið skal vera auðvelt í notkun og notendur skulu geta fundið upplýsingar um starfsmann eða deild án sérstakrar þjálfunar.
+
+## 🧪 Mælikvarði
+> Að minnsta kosti 80% prófunarnotenda skulu geta fundið tiltekinn starfsmann
