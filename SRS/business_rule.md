@@ -26,3 +26,14 @@ Notið auðkennið til að vísa í kröfuna úr SRS.md, t.d. business_requireme
 
 ## 🔗 Tengsl við kröfur eða ferla
 > Tengist functional requirements og system requirments þar sem það þarf að seperatea stjórn á kerfinu svo það virki vel og kemur í veg fyrir að fólk sem á ekki að nota kerfið fær að breyta því.
+
+## BRG-2
+
+## 📜 Lýsing
+> Hver starfsmaður má aðeins hafa einn beinan yfirmann skráðan í kerfinu á hverjum tíma.
+
+## 🧠 Rökrétt samhengi
+> Reglan tryggir skýra ábyrgð innan fyrirtækisins. Hún kemur í veg fyrir rugling í skipuriti og auðveldar að sjá hver ber ábyrgð á hverjum starfsmanni.
+
+## 🔗 Tengsl við kröfur eða ferla
+> Tengist F-2
