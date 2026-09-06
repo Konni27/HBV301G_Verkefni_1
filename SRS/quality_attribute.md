@@ -15,6 +15,16 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Hvernig er hægt að mæla eða staðfesta að krafan sé uppfyllt?
 
 -->
+Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
+
+## QA-1
+
+## 🧰 Lýsing
+> Kerfið skal vera auðvelt í notkun hjá adminum í að breyta upplýsingum, bæta við starfsmönnum og færa til starfsmenn í sínar deildir.
+
+## 🧪 Mælikvarði
+> 95% af venjulegum stjórnunaraðgerðum eru framkvæmdar á undir 60 sekúndum af þjálfuðum notanda.
+
 
 ## QA-2
 
