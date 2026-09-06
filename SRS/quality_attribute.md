@@ -13,9 +13,8 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 ## 🧪 Mælikvarði
 > Hvernig er hægt að mæla eða staðfesta að krafan sé uppfyllt?
-
--->
 Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auðkenni.
+-->
 
 ## QA-1
 
