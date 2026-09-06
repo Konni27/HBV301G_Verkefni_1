@@ -19,6 +19,106 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 > Vísaðu í notendakröfu sem þessi virknikrafa styður, ef við á.
 
 -->
+## FR-1
+
+## ⚙️ Lýsing
+> Kerfið skal leyfa HR starfsfólki að leita að starfsmanni eftir nafni.
+
+## 🧪 Staðfesting
+> Skrá inn sem HR notandi, slá inn nafn starfsmanns í leit og staðfesta að réttur starfsmaður finnist.
+
+## 🔗 Tengd notendakrafa
+> UR-1
+
+## FR-2
+
+## ⚙️ Lýsing
+> Kerfið skal birta starfsmannaupplýsingar þegar HR starfsfólk velur starfsmann úr leitarniðurstöðum.
+
+## 🧪 Staðfesting
+> Leita að starfsmanni, opna niðurstöðu og staðfesta að nafn, netfang, starfstitill og deild birtist.
+
+## 🔗 Tengd notendakrafa
+> UR-1
+
+## FR-3
+
+## ⚙️ Lýsing
+> Kerfið skal uppfæra leitarniðurstöður eftir því sem HR starfsfólk slær inn nafn starfsmanns.
+
+## 🧪 Staðfesting
+> Slá inn hluta af nafni og staðfesta að kerfið sýni starfsmenn sem passa við leitartextann.
+
+## 🔗 Tengd notendakrafa
+> UR-1
+
+## FR-4
+
+## ⚙️ Lýsing
+> Kerfið skal leyfa stjórnanda að velja starfsmann og deild sem starfsmaðurinn á að tilheyra.
+
+## 🧪 Staðfesting
+> Skrá inn sem stjórnandi, velja starfsmann og velja deild úr lista.
+
+## 🔗 Tengd notendakrafa
+> UR-2
+
+## FR-5
+
+## ⚙️ Lýsing
+> Kerfið skal leyfa stjórnanda að bæta völdum starfsmanni við valda deild.
+
+## 🧪 Staðfesting
+> Velja starfsmann og deild, vista breytinguna og staðfesta að starfsmaðurinn birtist í deildinni.
+
+## 🔗 Tengd notendakrafa
+> UR-2
+
+## FR-6
+
+## ⚙️ Lýsing
+> Kerfið skal vista breytingar á deildartengingu starfsmanns svo þær haldist eftir að notandi skráir sig út.
+
+## 🧪 Staðfesting
+> Bæta starfsmanni við deild, skrá sig út og aftur inn og staðfesta að tengingin sé enn til staðar.
+
+## 🔗 Tengd notendakrafa
+> UR-2
+
+## FR-7
+
+## ⚙️ Lýsing
+> Kerfið skal auðkenna innskráðan starfsmann þegar forritið er opnað.
+
+## 🧪 Staðfesting
+> Skrá inn sem starfsmaður og staðfesta að kerfið auðkenni réttan notanda.
+
+## 🔗 Tengd notendakrafa
+> UR-3
+
+## FR-8
+
+## ⚙️ Lýsing
+> Kerfið skal sjálfkrafa birta skipulagstré út frá innskráðum starfsmanni.
+
+## 🧪 Staðfesting
+> Skrá inn sem starfsmaður og staðfesta að skipulagstréð opnist án þess að leita þurfi að notandanum.
+
+## 🔗 Tengd notendakrafa
+> UR-3
+
+## FR-9
+
+## ⚙️ Lýsing
+> Kerfið skal sýna nánustu samstarfsmenn og stjórnendur innskráðs starfsmanns í skipulagstrénu.
+
+## 🧪 Staðfesting
+> Opna kerfið sem starfsmaður og staðfesta að réttir samstarfsmenn og stjórnandi birtist í kringum hann.
+
+## 🔗 Tengd notendakrafa
+> UR-3
+
+
 
 ## FR-10
 
