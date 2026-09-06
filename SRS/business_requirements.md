@@ -8,7 +8,7 @@ Viðskiptakrafa lýsir viðskiptalegu markmiði fyrirtækis eða viðskiptavinar
 
 ## BREQ-1 
  
-## Titill: 
+## Titill: Upplýsingar um starfsmenn
 
 ## 🧭 Lýsing
 > Kerfið skal halda í skrá með allar upplýsingar og stöðu hverns starfsmanns. Upplýsingar eins og nafn, netfang, starfstitill, tengiliðar etc. 
