@@ -18,6 +18,19 @@ Afritið sniðmátið hér fyrir neðan fyrir hverja kröfu og gefið henni auð
 
 -->
 
+## C-1
+
+## 🔒 Lýsing
+> Hvaða takmörkun setur þetta á hönnun eða þróun hugbúnaðarins? Það þarf að gera single signin þegar maður opnar vafran. Síðan þarf að gera MFA (Multi factor authentiactor). 
+
+## 📝 Athugasemdir
+> Verndar persónu upplýngar starfmanna frá þrjótum
+
+> Minnkar stressið á kerfinu
+
+## 🎯 Áhrif á hönnun eða þróun
+
+
 ## C-2
 
 ## 🔒 Lýsing
