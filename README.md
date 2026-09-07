@@ -1,18 +1,5 @@
 # 📦 Verkefni #1 - Tegundir krafna og samhengi 
 
-<!-- Fyllið inn í þessa kafla áður en verkefninu er skilað 
-
-Heiti kerfis: 
-Höfundar: Nöfn nemenda 
-Stutt lýsing á kerfinu
-Stutt lýsing á innihaldi geymslunnar. 
-    - Lesendur eru viðskiptavinir og kaupendur, notendur, kerfishönnuðir, forritarar og prófarar. Einnig verkefnisstjórar og viðhaldsteymi. 
-
-Annars ráðið þið hvernig þið viljið lýsa geymslunni eða ná til lesenda 
--->
-
-<!-- Nemendur fjarlægi eftirfarandi eða setji sem comment áður en verkefni er skilað 
--->
 
 ## Geymslan er í fjórum hlutum
 - README, þessi skrá
